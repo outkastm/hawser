@@ -1,0 +1,155 @@
+[en-us]
+name = "hawser"
+auth = "hawser"
+descript = "Remote Docker agent for Dockhand - manage Docker hosts anywhere. Hawser is a lightweight agent that enables Dockhand to manage Docker hosts in various network configurations."
+release_note = "Bundles hawser v0.2.53 packed from source"
+
+[de-de]
+name = "hawser"
+auth = "hawser"
+descript = "Remote-Docker-Agent für Dockhand – verwalten Sie Docker-Hosts überall. Hawser ist ein leichtgewichtiger Agent, der es Dockhand ermöglicht, Docker-Hosts in verschiedenen Netzwerkkonfigurationen zu verwalten."
+release_note = "Enthält hawser v0.2.53, aus dem Quellcode kompiliert"
+
+[es-es]
+name = "hawser"
+auth = "hawser"
+descript = "Agente Docker remoto para Dockhand: gestiona hosts Docker en cualquier lugar. Hawser es un agente ligero que permite a Dockhand gestionar hosts Docker en diversas configuraciones de red."
+release_note = "Incluye hawser v0.2.53 empaquetado desde el código fuente"
+
+[fr-fr]
+name = "hawser"
+auth = "hawser"
+descript = "Agent Docker distant pour Dockhand - gérez vos hôtes Docker n'importe où. Hawser est un agent léger qui permet à Dockhand de gérer des hôtes Docker dans diverses configurations réseau."
+release_note = "Inclut hawser v0.2.53 compilé depuis les sources"
+
+[hu-hu]
+name = "hawser"
+auth = "hawser"
+descript = "Távoli Docker-ügynök a Dockhandhez – kezelje Docker-gazdagépeit bárhonnan. A Hawser egy pehelysúlyú ügynök, amely lehetővé teszi a Dockhand számára a Docker-gazdagépek kezelését különféle hálózati konfigurációkban."
+release_note = "Tartalmazza a forráskódból csomagolt hawser v0.2.53 verziót"
+
+[it-it]
+name = "hawser"
+auth = "hawser"
+descript = "Agente Docker remoto per Dockhand: gestisci gli host Docker ovunque. Hawser è un agente leggero che consente a Dockhand di gestire gli host Docker in diverse configurazioni di rete."
+release_note = "Include hawser v0.2.53 compilato dai sorgenti"
+
+[ja-jp]
+name = "hawser"
+auth = "hawser"
+descript = "Dockhand 用リモート Docker エージェント - どこからでも Docker ホストを管理できます。Hawser は、さまざまなネットワーク構成で Dockhand が Docker ホストを管理できるようにする軽量エージェントです。"
+release_note = "ソースからパッケージ化された hawser v0.2.53 を同梱"
+
+[ko-kr]
+name = "hawser"
+auth = "hawser"
+descript = "Dockhand용 원격 Docker 에이전트 - 어디서나 Docker 호스트를 관리하세요. Hawser는 Dockhand가 다양한 네트워크 구성에서 Docker 호스트를 관리할 수 있도록 지원하는 경량 에이전트입니다."
+release_note = "소스에서 패키징된 hawser v0.2.53 포함"
+
+[pl-pl]
+name = "hawser"
+auth = "hawser"
+descript = "Zdalny agent Docker dla Dockhand — zarządzaj hostami Docker z dowolnego miejsca. Hawser to lekki agent, który umożliwia aplikacji Dockhand zarządzanie hostami Docker w różnych konfiguracjach sieciowych."
+release_note = "Zawiera hawser v0.2.53 spakowany ze źródeł"
+
+[pt-pt]
+name = "hawser"
+auth = "hawser"
+descript = "Agente Docker remoto para Dockhand - gira anfitriões Docker em qualquer lugar. O Hawser é um agente leve que permite ao Dockhand gerir anfitriões Docker em várias configurações de rede."
+release_note = "Inclui o hawser v0.2.53 empacotado a partir do código-fonte"
+
+[ru-ru]
+name = "hawser"
+auth = "hawser"
+descript = "Удалённый Docker-агент для Dockhand — управляйте хостами Docker из любого места. Hawser — это легковесный агент, позволяющий Dockhand управлять хостами Docker в различных сетевых конфигурациях."
+release_note = "Включает hawser v0.2.53, собранный из исходного кода"
+
+[tr-tr]
+name = "hawser"
+auth = "hawser"
+descript = "Dockhand için uzak Docker aracısı - Docker ana bilgisayarlarını her yerden yönetin. Hawser, Dockhand'in çeşitli ağ yapılandırmalarında Docker ana bilgisayarlarını yönetmesini sağlayan hafif bir aracıdır."
+release_note = "Kaynaktan paketlenmiş hawser v0.2.53 sürümünü içerir"
+
+[zh-cn]
+name = "hawser"
+auth = "hawser"
+descript = "Dockhand 的远程 Docker 代理 - 随时随地管理 Docker 主机。Hawser 是一款轻量级代理，使 Dockhand 能够在各种网络配置下管理 Docker 主机。"
+release_note = "内置从源码打包的 hawser v0.2.53"
+
+[zh-hk]
+name = "hawser"
+auth = "hawser"
+descript = "Dockhand 的遠端 Docker 代理程式 - 隨時隨地管理 Docker 主機。Hawser 是一款輕量級代理程式，讓 Dockhand 能夠在各種網絡配置下管理 Docker 主機。"
+release_note = "內建從原始碼打包的 hawser v0.2.53"
+
+[cs-cz]
+name = "hawser"
+auth = "hawser"
+descript = "Vzdálený Docker agent pro Dockhand – spravujte hostitele Docker odkudkoli. Hawser je odlehčený agent, který umožňuje nástroji Dockhand spravovat hostitele Docker v různých síťových konfiguracích."
+release_note = "Obsahuje hawser v0.2.53 zabalený ze zdrojového kódu"
+
+[da-dk]
+name = "hawser"
+auth = "hawser"
+descript = "Fjern-Docker-agent til Dockhand – administrer Docker-værter overalt. Hawser er en letvægtsagent, der gør det muligt for Dockhand at administrere Docker-værter i forskellige netværkskonfigurationer."
+release_note = "Indeholder hawser v0.2.53 pakket fra kildekode"
+
+[nl-nl]
+name = "hawser"
+auth = "hawser"
+descript = "Externe Docker-agent voor Dockhand - beheer Docker-hosts overal. Hawser is een lichtgewicht agent waarmee Dockhand Docker-hosts in verschillende netwerkconfiguraties kan beheren."
+release_note = "Bevat hawser v0.2.53 verpakt vanuit de broncode"
+
+[nb-no]
+name = "hawser"
+auth = "hawser"
+descript = "Ekstern Docker-agent for Dockhand – administrer Docker-verter hvor som helst. Hawser er en lettvektsagent som gjør det mulig for Dockhand å administrere Docker-verter i ulike nettverkskonfigurasjoner."
+release_note = "Inneholder hawser v0.2.53 pakket fra kildekode"
+
+[sv-se]
+name = "hawser"
+auth = "hawser"
+descript = "Fjärr-Docker-agent för Dockhand – hantera Docker-värdar var som helst. Hawser är en lättviktsagent som gör det möjligt för Dockhand att hantera Docker-värdar i olika nätverkskonfigurationer."
+release_note = "Innehåller hawser v0.2.53 paketerad från källkod"
+
+[el-gr]
+name = "hawser"
+auth = "hawser"
+descript = "Απομακρυσμένος πράκτορας Docker για το Dockhand - διαχειριστείτε κεντρικούς υπολογιστές Docker οπουδήποτε. Το Hawser είναι ένας ελαφρύς πράκτορας που επιτρέπει στο Dockhand να διαχειρίζεται κεντρικούς υπολογιστές Docker σε διάφορες διαμορφώσεις δικτύου."
+release_note = "Περιλαμβάνει το hawser v0.2.53 πακεταρισμένο από τον πηγαίο κώδικα"
+
+[ro-ro]
+name = "hawser"
+auth = "hawser"
+descript = "Agent Docker la distanță pentru Dockhand - gestionați gazdele Docker de oriunde. Hawser este un agent ușor care permite Dockhand să gestioneze gazdele Docker în diverse configurații de rețea."
+release_note = "Include hawser v0.2.53 împachetat din codul sursă"
+
+[th-th]
+name = "hawser"
+auth = "hawser"
+descript = "เอเจนต์ Docker ระยะไกลสำหรับ Dockhand - จัดการโฮสต์ Docker ได้จากทุกที่ Hawser เป็นเอเจนต์น้ำหนักเบาที่ช่วยให้ Dockhand สามารถจัดการโฮสต์ Docker ในการกำหนดค่าเครือข่ายที่หลากหลาย"
+release_note = "รวม hawser v0.2.53 ที่แพ็กจากซอร์สโค้ด"
+
+[vi-vn]
+name = "hawser"
+auth = "hawser"
+descript = "Tác nhân Docker từ xa cho Dockhand - quản lý các máy chủ Docker ở mọi nơi. Hawser là một tác nhân gọn nhẹ cho phép Dockhand quản lý các máy chủ Docker trong nhiều cấu hình mạng khác nhau."
+release_note = "Bao gồm hawser v0.2.53 được đóng gói từ mã nguồn"
+
+[id-id]
+name = "hawser"
+auth = "hawser"
+descript = "Agen Docker jarak jauh untuk Dockhand - kelola host Docker di mana saja. Hawser adalah agen ringan yang memungkinkan Dockhand mengelola host Docker dalam berbagai konfigurasi jaringan."
+release_note = "Menyertakan hawser v0.2.53 yang dikemas dari kode sumber"
+
+[ar-sa]
+name = "hawser"
+auth = "hawser"
+descript = "وكيل Docker عن بُعد لـ Dockhand - أدر مضيفي Docker من أي مكان. Hawser هو وكيل خفيف الوزن يمكّن Dockhand من إدارة مضيفي Docker في مختلف تكوينات الشبكة."
+release_note = "يتضمن hawser v0.2.53 المُجمّع من الكود المصدري"
+
+[he-il]
+name = "hawser"
+auth = "hawser"
+descript = "סוכן Docker מרוחק עבור Dockhand - נהל מארחי Docker מכל מקום. Hawser הוא סוכן קל משקל המאפשר ל-Dockhand לנהל מארחי Docker בתצורות רשת שונות."
+release_note = "כולל את hawser v0.2.53 ארוז מקוד המקור"
